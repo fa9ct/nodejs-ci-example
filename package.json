@@ -4,7 +4,7 @@
   "description": "A simple Node.js application for CI with GitHub Actions lab",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
